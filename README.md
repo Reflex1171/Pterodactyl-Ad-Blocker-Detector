@@ -14,4 +14,4 @@ Run these:
 - Run yarn build:production
 
 
-If you would like to order a custom theme from me contact me on discord: Reflex#4444
+If you run into any issues or want to commision me for custom work dm me on discord Reflex#4444
