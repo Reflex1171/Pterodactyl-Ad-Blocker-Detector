@@ -8,7 +8,6 @@ Install instructions:
 Run these:
 - If you do not have yarn installed run through this https://pterodactyl.io/community/customization/panel.html
 - Yarn add adblock-detect-react
-- WARNING BEFORE YOU CONTINUE THIS WILL DELETE ALL THEMES / ADDONS / ANY OTHER THINGS YOU WILL NOT BE ABLE TO USE THIS WITH A THEME UNLESS ITS A CUSTOM THEME FROM ME.
 - Download all folders and upload them to the panel.
 - Run yarn build:production
 
